@@ -35,7 +35,6 @@ Between Aug 8–10, 2026, an external attacker ran a low-and-slow password spray
 
 - `CLD-IR-0001.pdf` — full incident report
 - `kql-queries-0001.kql` — KQL detection/hunting queries used during the investigation
-- `README.md` — this file
 
 ## Response actions taken
 
